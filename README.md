@@ -1,2 +1,2 @@
-# USM
-UA Self Montage
+# CSM
+Canvas Self Montage
