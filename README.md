@@ -1,6 +1,7 @@
 # CSM
 Canvas Self Montage
 
+
 Esta aplicación convierte archivos PDF y Word a HTML, adaptados para Canvas específicamente.
 
 ## Requisitos
@@ -19,3 +20,5 @@ Proyecto en Pausa.
 
 ```bash
 pip install -r requirements.txt
+=======
+
