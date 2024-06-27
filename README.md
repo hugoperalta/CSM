@@ -13,6 +13,8 @@ Esta aplicación convierte archivos PDF y Word a HTML, adaptados para Canvas esp
 - mammoth
 - PyQt5
 
+Proyecto en Pausa.
+
 ## Instalación
 
 ```bash
